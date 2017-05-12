@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/Yelp/dataset-examples.svg)](https://travis-ci.org/Yelp/dataset-examples)
 
-Yelp's Academic Dataset Examples
+Yelpa's Academic Dataset Examples
 ================================
 
 We're providing three examples for use with the datasets available at [http://www.yelp.com/dataset_challenge](http://www.yelp.com/dataset_challenge) and 
